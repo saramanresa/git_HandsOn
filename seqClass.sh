@@ -11,3 +11,5 @@ seq=$(echo $seq | tr a-z A-Z)  # Note we just added this line
 else
   echo "The sequence is not DNA nor RNA"
 fi
+
+#edit
