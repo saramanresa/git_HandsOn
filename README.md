@@ -1,4 +1,4 @@
-#README
+# README
 
 ### Task 11
 #### seqClass.sh
